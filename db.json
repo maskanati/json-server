@@ -1,11 +1,7 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "profiles": [{
+    "firstName": "Salman",
+    "lastName": "Maskanati",
+    imageUrl: "https://avatars.githubusercontent.com/u/34652258?v=4"
+  }]
 }
