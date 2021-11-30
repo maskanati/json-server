@@ -1,7 +1,7 @@
 {
   "profiles": [{
     "id": 1,
-    "username": "s.maskanati"
+    "username": "s.maskanati",
     "firstName": "Salman",
     "lastName": "Maskanati",
     "password": "123",
