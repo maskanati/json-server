@@ -3,6 +3,7 @@
     "id": 1,
     "firstName": "Salman",
     "lastName": "Maskanati",
+    "password": "123",
     "imageUrl": "https://avatars.githubusercontent.com/u/34652258?v=4"
   }]
 }
